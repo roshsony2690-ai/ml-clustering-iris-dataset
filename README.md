@@ -1,10 +1,10 @@
-Clustering Analysis on Iris Dataset
+# CLUSTERING ANALYSIS ON IRIS DATASET
 
-📋 Overview
+## 📋 Overview
 
 This project implements and compares two popular clustering algorithms - KMeans and Hierarchical Clustering - on the classic Iris dataset. The goal is to identify natural groupings in the data without using label information, demonstrating the power of unsupervised learning techniques.
 
-🎯 Objective
+## 🎯 Objective
 
 The main objectives of this project are:
 
@@ -14,7 +14,7 @@ The main objectives of this project are:
 • Compare the performance of both algorithms                         
 • Visualize clustering results and interpret findings           
 
-📊 Dataset
+## 📊 Dataset
 
 The Iris dataset is a multivariate dataset introduced by Ronald Fisher in 1936. It contains:
 
@@ -24,7 +24,7 @@ The Iris dataset is a multivariate dataset introduced by Ronald Fisher in 1936. 
 
 Note: For clustering purposes, the species labels are only used for evaluation, not during the clustering process.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 • Python 3.x                
 • Libraries:                  
@@ -33,13 +33,13 @@ Note: For clustering purposes, the species labels are only used for evaluation, 
    ◦ scikit-learn - Machine learning algorithms and metrics             
    ◦ scipy - Hierarchical clustering and dendrograms                
 
-📁 Project Structure
+## 📁 Project Structure
 text
 ├── clustering_analysis.ipynb     # Main Jupyter notebook with complete analysis          
 ├── README.md                     # Project documentation               
 └── requirements.txt              # Required Python packages                    
 
-🔍 Key Features 
+## 🔍 Key Features 
 
 1. Data Preprocessing
    
@@ -72,7 +72,7 @@ text
 • Discussion of strengths and limitations
 
 
-📈 Results Summary
+## 📈 Results Summary
 
 Metric	                |  KMeans Clustering 	 |  Hierarchical Clustering  |
 -------------------------|-----------------------|---------------------------|
