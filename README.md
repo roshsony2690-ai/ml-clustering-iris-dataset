@@ -87,7 +87,7 @@ Visual comparison with actual species
 Discussion of strengths and limitations
 
 📈 Results Summary
-Metric	                │  KMeans Clustering 	 │  Hierarchical Clustering
+Metric	                ┃  KMeans Clustering 	 │  Hierarchical Clustering
 Adjusted Rand Index 	  │  ~0.73               │  ~0.73
 Normalized Mutual Info  │	~0.76   	           │  ~0.76
 Optimal Clusters	      │  3   	               │  3
