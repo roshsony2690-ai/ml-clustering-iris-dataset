@@ -88,7 +88,7 @@ Discussion of strengths and limitations
 
 📈 Results Summary
 Metric	                ┃  KMeans Clustering 	 │  Hierarchical Clustering
-Adjusted Rand Index 	  │  ~0.73               │  ~0.73
-Normalized Mutual Info  │	~0.76   	           │  ~0.76
-Optimal Clusters	      │  3   	               │  3
+Adjusted Rand Index 	  ┃  ~0.73               │  ~0.73
+Normalized Mutual Info  ┃	~0.76   	           │  ~0.76
+Optimal Clusters	      ┃  3   	               │  3
 Both algorithms successfully identified the three natural groupings in the Iris dataset, with strong agreement with the actual species labels.
