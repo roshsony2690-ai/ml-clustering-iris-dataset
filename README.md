@@ -1,19 +1,17 @@
 Clustering Analysis on Iris Dataset
+
 📋 Overview
 This project implements and compares two popular clustering algorithms - KMeans and Hierarchical Clustering - on the classic Iris dataset. The goal is to identify natural groupings in the data without using label information, demonstrating the power of unsupervised learning techniques.
 
 🎯 Objective
+
 The main objectives of this project are:
 
-Apply unsupervised learning techniques to cluster the Iris dataset
-
-Understand and implement KMeans clustering algorithm
-
-Understand and implement Hierarchical clustering algorithm
-
-Compare the performance of both algorithms
-
-Visualize clustering results and interpret findings
+• Apply unsupervised learning techniques to cluster the Iris dataset
+• Understand and implement KMeans clustering algorithm
+• Understand and implement Hierarchical clustering algorithm
+• Compare the performance of both algorithms
+• Visualize clustering results and interpret findings
 
 📊 Dataset
 The Iris dataset is a multivariate dataset introduced by Ronald Fisher in 1936. It contains:
@@ -80,15 +78,17 @@ Performance metrics: Comparison with actual labels
 4. Comparative Analysis
 Side-by-side comparison of both algorithms
 
-Quantitative performance metrics
+• Quantitative performance metrics
 
-Visual comparison with actual species
+• Visual comparison with actual species
 
-Discussion of strengths and limitations
+• Discussion of strengths and limitations
 
 📈 Results Summary
-Metric	                ┃  KMeans Clustering 	 │  Hierarchical Clustering
-Adjusted Rand Index 	  ┃  ~0.73               │  ~0.73
-Normalized Mutual Info  ┃	~0.76   	           │  ~0.76
-Optimal Clusters	      ┃  3   	               │  3
+Metric	                |  KMeans Clustering 	 |  Hierarchical Clustering  |
+------------------------|----------------------|---------------------------|
+Adjusted Rand Index 	  |  ~0.73               |  ~0.73                    |
+Normalized Mutual Info  |	~0.76   	           |  ~0.76                    |
+Optimal Clusters	      |  3   	               |  3                        |
+
 Both algorithms successfully identified the three natural groupings in the Iris dataset, with strong agreement with the actual species labels.
