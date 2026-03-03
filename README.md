@@ -7,11 +7,11 @@ This project implements and compares two popular clustering algorithms - KMeans 
 
 The main objectives of this project are:
 
-• Apply unsupervised learning techniques to cluster the Iris dataset
-• Understand and implement KMeans clustering algorithm
-• Understand and implement Hierarchical clustering algorithm
-• Compare the performance of both algorithms
-• Visualize clustering results and interpret findings
+• Apply unsupervised learning techniques to cluster the Iris dataset    
+• Understand and implement KMeans clustering algorithm               
+• Understand and implement Hierarchical clustering algorithm           
+• Compare the performance of both algorithms                         
+• Visualize clustering results and interpret findings           
 
 📊 Dataset
 The Iris dataset is a multivariate dataset introduced by Ronald Fisher in 1936. It contains:
