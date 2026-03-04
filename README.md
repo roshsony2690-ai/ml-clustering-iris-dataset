@@ -34,7 +34,7 @@ Note: For clustering purposes, the species labels are only used for evaluation, 
    ◦ scipy - Hierarchical clustering and dendrograms                
 
 ## 📁 Project Structure
-text
+text        
 ├── clustering_analysis.ipynb     # Main Jupyter notebook with complete analysis          
 ├── README.md                     # Project documentation               
 └── requirements.txt              # Required Python packages                    
